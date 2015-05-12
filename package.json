@@ -1,0 +1,29 @@
+{
+  "name": "hexo-renderer-postcss",
+  "version": "1.0.1",
+  "description": "A Hexo plugin for rendering PostCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshacheson/hexo-renderer-postcss.git"
+  },
+  "keywords": [
+    "Hexo",
+    "PostCSS",
+    "renderer",
+    "plugin"
+  ],
+  "author": "Joshua Acheson <joshua.acheson@gmail.com> (http://joshacheson.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshacheson/hexo-renderer-postcss/issues"
+  },
+  "homepage": "https://github.com/joshacheson/hexo-renderer-postcss#readme",
+  "dependencies": {
+    "cssnano": "^1.1.0",
+    "postcss": "^4.1.10"
+  }
+}
