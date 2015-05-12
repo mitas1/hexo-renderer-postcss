@@ -14,5 +14,4 @@ var renderPostCSS = function (data, options) {
         });
 };
 
-// associate the Sass renderer with .scss AND .sass extensions
 hexo.extend.renderer.register('css', 'css', renderPostCSS);
