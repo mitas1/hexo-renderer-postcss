@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/joshacheson/hexo-renderer-postcss#readme",
   "dependencies": {
-    "cssnano": "^1.1.0",
     "postcss": "^5.0.12"
   }
 }
