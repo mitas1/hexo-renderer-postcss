@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/joshacheson/hexo-renderer-postcss#readme",
   "dependencies": {
-    "postcss": "^4.1.10"
+    "postcss": "^5.0.12"
   }
 }
